@@ -38,8 +38,3 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=HiepFk&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HiepFk&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiepFk&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
