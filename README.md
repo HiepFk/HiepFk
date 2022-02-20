@@ -1,4 +1,6 @@
-<div align="center">![Alt Text](https://github.com/HiepFk/HiepFk/blob/main/Hnet-image.gif)<div/>
+![Alt Text](https://github.com/HiepFk/HiepFk/blob/main/Hnet-image.gif)
+  
+<a href="#" align="center" ><img width="100%" height="auto" src="https://github.com/HiepFk/HiepFk/blob/main/Hnet-image.gif" height="175px"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyễn Huy Hiệp</h1>
