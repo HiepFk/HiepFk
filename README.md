@@ -12,9 +12,6 @@
 
 - 🔭 I’m currently working on **[Thang Long Unviversity](https://thanglong.edu.vn/)**
 
-- 🌱 I’m currently learning **Toeic & Web**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hieptlu.tk)**
 
