@@ -1,8 +1,7 @@
 <p align="center">
-  <img width="250" src="https://media1.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif?cid=ecf05e47jx2tbidt7kedj80rtesa3c7ytx0x6lxbdeaz6njr&rid=giphy.gif&ct=g">
+  <img width="250" src="https://github.com/HiepFk/HiepFk/blob/main/itachi.gif">
 </p>
   
-<a href="#" align="center" ><img  width="100%"  height="auto" src="https://github.com/HiepFk/HiepFk/blob/main/itachi.gif" height="175px"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyễn Huy Hiệp</h1>
