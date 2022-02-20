@@ -1,4 +1,4 @@
-<a href="#" align="center" > ![Alt Text](https://github.com/HiepFk/HiepFk/blob/main/Hnet-image.gif)</a>
+
   
 <a href="#" align="center" ><img  width="100%"  height="auto" src="https://github.com/HiepFk/HiepFk/blob/main/itachi.gif" height="175px"/></a>
 
