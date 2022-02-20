@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://github.com/HiepFk/HiepFk/blob/main/itachi.gif">
+  <img width="500" src="https://github.com/HiepFk/HiepFk/blob/main/itachi.gif">
 </p>
   
 
