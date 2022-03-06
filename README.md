@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://github.com/HiepFk/HiepFk/blob/main/starwar.gif">
+  <img width="800" src="https://github.com/HiepFk/HiepFk/blob/main/starwar.gif">
 </p>
   
 
