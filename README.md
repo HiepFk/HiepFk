@@ -12,8 +12,7 @@
 
 - 🔭 I’m currently working on **[Thang Long Unviversity](https://thanglong.edu.vn/)**
 
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://hieptlu.tk)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://fk-porfolio.netlify.app/)**
 
 - 📫 How to reach me **hiepnh.fk@gmail.com**
 
