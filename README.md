@@ -1,5 +1,7 @@
 <p align="center">
   <img width="500" src="https://github.com/HiepFk/HiepFk/blob/main/starwar.gif">
+  <img width="500" src="https://firebasestorage.googleapis.com/v0/b/tired-city-shop-2d704.appspot.com/o/starwar.gif?alt=media&token=50f41567-c8f9-43e6-bcef-7a5a2dfd68e9">
+  
 </p>
   
 
